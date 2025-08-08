@@ -7,6 +7,7 @@ function App() {
     <>
      <p>well, you're here because you're broke.</p>
      <p>let's find you a cheap flight :'o</p>
+     <p>hehe</p>
     </>
   )
 }

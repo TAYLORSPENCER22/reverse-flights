@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-     <p>well, you're here because you're broke.</p>
+     <p>well, you're here because you're broke</p>
   
     </>
   )
